@@ -1,0 +1,16 @@
+creation_timestamp: 1792777052670
+current_stage: None
+deployment_job_state: null
+description: 'lgbm-tuned: лучшая ROC-AUC на 5-кратной CV; порог 0,10 из ЛР1'
+last_updated_timestamp: 1792777052784
+model_id: m-34a49112a82c4840aad8ac03d3971a34
+name: lab2_terekhin
+run_id: 7c9a424ca5a24859bfb802bfabf5f82e
+run_link: null
+source: models:/m-34a49112a82c4840aad8ac03d3971a34
+status: READY
+status_message: null
+storage_location: file:///content/drive/MyDrive/lab2_terekhin/mlruns/698861455399176043/models/m-34a49112a82c4840aad8ac03d3971a34/artifacts
+user_id: null
+version: 2
+workspace: default

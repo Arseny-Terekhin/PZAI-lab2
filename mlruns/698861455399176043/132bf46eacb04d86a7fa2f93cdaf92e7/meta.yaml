@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/lab2_terekhin/mlruns/698861455399176043/132bf46eacb04d86a7fa2f93cdaf92e7/artifacts
+end_time: 1792776579397
+entry_point_name: ''
+experiment_id: '698861455399176043'
+lifecycle_stage: active
+run_id: 132bf46eacb04d86a7fa2f93cdaf92e7
+run_name: logreg-baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792776572688
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,10 @@
+artifact_location: file:///content/drive/MyDrive/lab2_terekhin/mlruns/698861455399176043/models/m-34a49112a82c4840aad8ac03d3971a34/artifacts
+creation_timestamp: 1792777048466
+experiment_id: '698861455399176043'
+last_updated_timestamp: 1792777052522
+model_id: m-34a49112a82c4840aad8ac03d3971a34
+model_type: null
+name: model
+source_run_id: 7c9a424ca5a24859bfb802bfabf5f82e
+status: 2
+status_message: null

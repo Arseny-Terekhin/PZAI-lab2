@@ -1,0 +1,14 @@
+artifact_uri: file:///content/drive/MyDrive/lab2_terekhin/mlruns/698861455399176043/f4bcbe19dc454c1cb7c30eb9e64a5213/artifacts
+end_time: 1792776585267
+entry_point_name: ''
+experiment_id: '698861455399176043'
+lifecycle_stage: active
+run_id: f4bcbe19dc454c1cb7c30eb9e64a5213
+run_name: lgbm-default
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1792776579406
+status: 3
+tags: []
+user_id: root
